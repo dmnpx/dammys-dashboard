@@ -2,11 +2,9 @@
 name: ✨ Feature
 about: Suggest an idea for a new feature
 title: 'feat: [Short, descriptive title]'
-labels: ['feature', 'needs-triage']
-assignees: ''
 ---
 
-## ✨ Feature
+## ✨ Feature Title
 
 ### What it does
 A clear and concise description of the new feature's functionality. What will it enable or accomplish?

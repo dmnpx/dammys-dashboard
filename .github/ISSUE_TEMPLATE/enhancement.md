@@ -2,11 +2,9 @@
 name: 🚀 Enhancement
 about: Suggest an improvement or change to an existing feature
 title: 'enh: [Short, descriptive title]'
-labels: ['enhancement', 'needs-triage']
-assignees: ''
 ---
 
-## 🚀 Enhancement
+## 🚀 Enhancement Title
 
 ### What existing feature would you like to enhance?
 A clear and concise description of the existing feature you want to improve.

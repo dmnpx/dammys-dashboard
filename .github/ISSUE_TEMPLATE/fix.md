@@ -2,11 +2,9 @@
 name: 🐛 Bug Fix
 about: Report a bug to help us improve
 title: 'fix: [Short, descriptive title]'
-labels: ['bug', 'needs-triage']
-assignees: ''
 ---
 
-## 🐛 Bug Fix
+## 🐛 Bug Fix Title
 
 ### Describe the bug
 A clear and concise description of what the bug is.
