@@ -6,7 +6,7 @@ labels: ['feature', 'needs-triage']
 assignees: ''
 ---
 
-## ✨ Feature Request
+## ✨ Feature
 
 ### What it does
 A clear and concise description of the new feature's functionality. What will it enable or accomplish?
