@@ -1,5 +1,5 @@
 ---
-name: ✨ Feature Request
+name: ✨ Feature
 about: Suggest an idea for a new feature
 title: 'feat: [Short, descriptive title]'
 labels: ['feature', 'needs-triage']
