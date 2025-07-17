@@ -29,5 +29,9 @@ src/lib/paraglide
 # SQLite
 *.db
 
+# Storybook
 *storybook.log
 storybook-static
+
+# Inlang
+project.inlang/cache/
